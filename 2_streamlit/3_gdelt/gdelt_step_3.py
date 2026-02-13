@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-EXTERNAL_SENTIMENT_API = "https://zkx093ybh8.execute-api.us-east-1.amazonaws.com/detect_sentiment"
+EXTERNAL_SENTIMENT_API = # INSERT API ENDPOINT HERE (Check Moodle)
 
 
 st.title("News Search with GDELT")
