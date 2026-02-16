@@ -1,0 +1,35 @@
+h1 {
+    font-family: "Arial";
+    color: #333;
+    font-size: 34px;
+    font-weight: bold;    
+}
+
+h2 {
+    font-family: "Arial";
+    color: #333;
+    font-size: 20px;
+    font-weight: bold;    
+}
+
+p {
+    font-family: "Arial";
+    color: #333;
+    font-size: 16px;
+    font-weight: normal;    
+
+}
+
+.dd1 {
+    width: 30%;
+}
+
+body{
+    background-color: rgb(226, 220, 220);
+}
+
+.app-shell{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 28px 40px 46px; /* <- left/right margins via padding */
+}
