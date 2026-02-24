@@ -8,3 +8,7 @@ geopy
 pylint
 dash
 dash_bootstrap_components
+openpyxl
+anywidget
+cohere
+openfoodfacts
